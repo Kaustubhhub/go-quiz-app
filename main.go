@@ -1,5 +1,13 @@
 package main
 
+func problemPuller(fileName string) ([]problem, err) {
+
+}
+
+func parseProblems(lines [][]string) {
+
+}
+
 func main() {
 	//1. input the name of the file
 	//2. set the diration for the timer
